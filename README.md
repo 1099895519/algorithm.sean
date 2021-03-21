@@ -1,0 +1,2 @@
+# algorithm.sean
+Just study
